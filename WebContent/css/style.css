@@ -1,0 +1,210 @@
+@charset "UTF-8";
+
+.c1 {
+	text-align: center;
+	background-color: #D6FF58;
+}
+
+input.button {
+	width: 200px;
+	height: 50px;
+}
+
+.c3 {
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+}
+
+.c4 {
+	margin-right: 17px;
+}
+
+.c5 {
+	margin-left: 15px;
+}
+
+div {
+	margin-top: 10px;
+}
+
+.c6 {
+	margin-left: -48px;
+}
+
+.c7 {
+	margin-left: 20px;
+}
+
+.c8 {
+	width: 250px;
+	height: 50px;
+}
+
+.c9 {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+}
+
+table {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.c10 {
+	position: absolute;
+	right: 200px;
+	top: 50px;
+	 width:80px;
+	 height:35px;
+}
+
+.c14 {
+	float: left;
+	margin-top: -15px;
+	margin-left: 10px;
+	margin-right: 340px;
+}
+
+.c15 {
+	position: absolute;
+	right: 150px;
+	top: 52px;
+	width: 70px;
+	height: 50px;
+}
+
+.c16 {
+	text-align: right;
+	margin-top: -95px;
+	margin-right: 100px;
+	margin-bottom: 100px;
+}
+
+.c19 {
+	text-align: center;
+	list-style: none;
+	display: table;
+	width: 1000px;
+}
+
+.c20 {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	width: 200px;
+}
+
+.c21 {
+	margin-left: -32px;
+}
+
+.c22 {
+	float: left;
+	margin-right: 50px;
+	margin-left: 200px;
+}
+
+.c23 {
+	float: left;
+	margin-right: 50px;
+	margin-left: 300px;
+}
+
+.c24 {
+	margin-left: 120px;
+}
+
+.c25 {
+	text-align: right;
+	float: right;
+	margin-right: 250px;
+	margin-bottom: 20px;
+}
+
+.c26 {
+	margin-left: 168px;
+}
+
+.tsImgArea {
+	line-height: 1;
+}
+/* === ソートボタン ============================== */
+.tsImg {
+	display: inline-block;
+	width: 8px;
+	height: 6px;
+	background: #eee;
+	border: 1px solid #777;
+	margin: 1px 3px;
+	padding: 3px;
+	cursor: pointer;
+}
+/* === ソートボタン（カーソルオーバー時）========= */
+.tsImg:hover {
+	background: #FFD700;
+}
+/* === ソートボタン内の三角の色（SVG）============ */
+.tsImg path {
+	fill: #777;
+}
+
+/* --- （参考）テーブル全体のスタイル指定 ------- */
+#sampleTable {
+	width: 100%;
+	border-collapse: collapse; /* 境界線結合 */
+	border-spacing: 0; /* 罫線間余白 */
+	font-size: 9pt; /* 文字サイズ */
+}
+/* --- ヘッダーのスタイル指定 ------------------- */
+#sampleTable th {
+	text-align: center; /* 文字位置   */
+	font-weight: bold; /* 太文字     */
+	padding: 6px 5px; /* 余白       */
+	border: 1px #666666 solid; /* 罫線       */
+	background: #99ccff; /* 背景色     */
+	white-space: nowrap;
+}
+/* --- 明細のスタイル指定 ----------------------- */
+#sampleTable td {
+	text-align: center; /* 文字位置   */
+	padding: 6px 5px; /* 余白       */
+	border: 1px #666666 solid; /* 罫線       */
+	white-space: nowrap;
+}
+
+.c27 {
+	margin-top: 140px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+
+.c30 {
+	margin-left: -65px;
+}
+
+.c31 {
+	margin-left: -33px;
+}
+
+.c33 {
+	margin-left: -80px;
+}
+
+.c34 {
+	margin-left: px;
+}
+
+.c35 {
+	background-color: #D6FF58;
+}
+
+.c36 {
+	margin-top: 100px;
+}
+
+.c37 {
+	background-color: #00FF3B;
+}
